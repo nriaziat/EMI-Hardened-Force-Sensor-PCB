@@ -1,4 +1,4 @@
-# EMI-Hardened-Force-Sensor-PCB
+# EMI Hardened Force Sensor PCB
 
 <!--- This template should be used if the project contains hardware designs. If the project contains both hardware and software designs, please also refer to software-readme-template.md and incorporate relevant sections. -->
 
@@ -21,6 +21,8 @@
 ## Key concepts
 
 For more information about this project, please refer to our publication: (TODO).
+Designed for use with the Texas Measurment QMFLA-5-350-11-1LJAY-F. We reccomend bonding with cyanoacrylate glue and appropriate surface preparation. 
+For maximum EMI resistance, we reccommend using twisted and shielded cabling as well as the included 3D printed housing with copper tape lining. 
 
 ## Project expectations
 
