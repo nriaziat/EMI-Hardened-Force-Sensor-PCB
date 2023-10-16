@@ -23,7 +23,7 @@
 ## Key concepts
 
 For more information about this project, please refer to our publication: (TODO).
-Designed for use with the Texas Measurment QMFLA-5-350-11-1LJAY-F. We reccomend bonding with cyanoacrylate glue and appropriate surface preparation. 
+Designed for use with the Texas Measurment [QMFLA-5-350-11-1LJAY-F](https://tml.jp/e/product/strain_gauge/mf_list.html) and the [RP2040](https://www.raspberrypi.com/products/rp2040/).
 For maximum EMI resistance, we reccommend using twisted and shielded cabling as well as the included 3D printed housing with copper tape lining. 
 
 ## Project expectations
