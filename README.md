@@ -1,5 +1,7 @@
 # EMI Hardened Force Sensor PCB
 
+![](https://github.com/nriaziat/EMI-Hardened-Force-Sensor-PCB/blob/main/Image1.png?raw=true)
+
 <!--- This template should be used if the project contains hardware designs. If the project contains both hardware and software designs, please also refer to software-readme-template.md and incorporate relevant sections. -->
 
 ## Contents
