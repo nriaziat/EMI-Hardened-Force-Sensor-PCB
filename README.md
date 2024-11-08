@@ -22,7 +22,7 @@
 
 ## Key concepts
 
-For more information about this project, please refer to our publication: (TODO).
+For more information about this project, please refer to our publication: [Riaziat, Naveed D., et al. "Investigating Haptic Feedback in Vision-Deficient Millirobot Telemanipulation." IEEE Robotics and Automation Letters (2024)](https://ieeexplore.ieee.org/abstract/document/10521760/).
 Designed for use with the Texas Measurment [QMFLA-5-350-11-1LJAY-F](https://tml.jp/e/product/strain_gauge/mf_list.html) and the [RP2040](https://www.raspberrypi.com/products/rp2040/).
 For maximum EMI resistance, we reccommend using twisted and shielded cabling as well as the included 3D printed housing with copper tape lining. 
 
